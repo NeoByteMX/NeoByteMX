@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Edwin</h1>
-<h3 align="center">A passionate Cloud Computing Engineer from Mexico City</h3>
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+<h1 align="center">Hi 👋, I'm Edwin </h1>
+<h3 align="center">A passionate Cloud Computing Engineer from Mexico City </h3>
 
 - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Alibaba Cloud</a>
 
