@@ -1,7 +1,6 @@
 <h1 align="center">Hi there👋</h1>
 <h3 align="center">I'm Edwin, a passionate Cloud Computing Engineer from Mexico City, I'm interested in cybersecurity and development. I work on random projects in my free time, always learning a new skill and if possible, getting a new cert.</h3>
 <br />
-
 <h1>About me:</h1>
 
 - 🔭 I’m currently working in <a href="https://us.alibabacloud.com/en" target="blank">Alibaba Cloud</a> being a member of the Alibaba Cloud International Support Team
