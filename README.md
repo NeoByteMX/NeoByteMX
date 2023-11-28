@@ -14,8 +14,9 @@
 
 - 📫 You can email me: **mmeo1107@gmail.com**
 
-- 📄 Know about my experiences, I'm open to job opportunities <a href="https://elfin-caption-c76.notion.site/My-Certifications-111518db1a1442a29426588cc519c97d" target="blank"> Resume </a>
+- 📄 Know about my experiences:<a href="https://elfin-caption-c76.notion.site/My-Certifications-111518db1a1442a29426588cc519c97d" target="_blank"> Resume </a>
 <br/>
+- 🌟 Open to job opportunities or collaboration in a project
 
 <h1>Skills and tools</h1>
 <p align="center">
