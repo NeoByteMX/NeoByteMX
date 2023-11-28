@@ -12,9 +12,9 @@
 
 - 💬 Ask me about **Cloud computing**
 
-- 📫 How to reach me **mmeo1107@gmail.com**
+- 📫 You can email me: **mmeo1107@gmail.com**
 
-- 📄 Know about my experiences, I'm open to job opportunities <a href="https://elfin-caption-c76.notion.site/My-Certifications-111518db1a1442a29426588cc519c97d" target="blank"> Resume</a>
+- 📄 Know about my experiences, I'm open to job opportunities <a href="https://elfin-caption-c76.notion.site/My-Certifications-111518db1a1442a29426588cc519c97d" target="blank"> Resume </a>
 <br/>
 
 <h1>Skills and tools</h1>
