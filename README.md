@@ -20,6 +20,7 @@
 
 <br />
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,fastapi,)](https://skillicons.dev)
 
 Last Edited on: 28/11/2023
