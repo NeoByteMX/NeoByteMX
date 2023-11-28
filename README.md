@@ -19,7 +19,10 @@
 ### 👨‍💻 Languages and Tools
 
 <br />
-
-[![My Languages](https://skillicons.dev/icons?i=js,html,css,py,aws,bash,fastapi,git,github,linux,md,neovim,replit,vim,vscode,)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,py,aws,bash,fastapi,git,github,linux,md,neovim,replit,vim,vscode" />
+  </a>
+</p>
 
 Last Edited on: 28/11/2023
