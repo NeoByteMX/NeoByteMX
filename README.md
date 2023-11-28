@@ -13,10 +13,12 @@
 - 💬 Ask me about **Cloud computing**
 
 - 📫 You can email me: **mmeo1107@gmail.com**
+  
+- 🌟 Open to job opportunities or collaboration in a project
 
 - 📄 Know about my experiences:<a href="https://elfin-caption-c76.notion.site/My-Certifications-111518db1a1442a29426588cc519c97d" target="_blank"> Resume </a>
 <br/>
-- 🌟 Open to job opportunities or collaboration in a project
+
 
 <h1>Skills and tools</h1>
 <p align="center">
