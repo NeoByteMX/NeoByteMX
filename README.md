@@ -6,6 +6,7 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,py,aws,bash,fastapi,git,github,linux,md,neovim,replit,vim,vscode" />
   </a>
 </p>
+<br />
 - 🔭 I’m currently working in <a href="https://us.alibabacloud.com/en" target="blank">Alibaba Cloud</a>
 
 - 🌱 I’m learning JavaScript and pen-testing on Try Hack Me<a href="https://tryhackme.com/p/Absalyon" target="_blank"> Absalyon </a>
