@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Cloud computing** and **cybersecurity**, I can bring some help or consulting.
 
-- 📫 You can email me: **mmeo1107@gmail.com**
+- 📫 You can email me:<img src="https://skillicons.dev/icons?i=gmail" **mmeo1107@gmail.com**
   
 - 🌟 Open to job opportunities or collaboration in a project.
 
@@ -21,7 +21,7 @@
 <h1>Skills and tools</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,py,aws,bash,fastapi,git,github,linux,windows,sql,md,neovim,replit,vim,vscode,azure,notion," />
+    <img src="https://skillicons.dev/icons?i=js,html,css,py,aws,bash,fastapi,flask,git,github,linux,windows,arch,md,neovim,replit,vim,vscode,azure,notion," />
   </a>
 </p>
 <br />
