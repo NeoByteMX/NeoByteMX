@@ -21,7 +21,7 @@
 <h1>Skills and tools</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,py,aws,bash,fastapi,git,github,linux,md,neovim,replit,vim,vscode,azure,notion,obisdian" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,py,aws,bash,fastapi,git,github,linux,windows,sql,md,neovim,replit,vim,vscode,azure,notion," />
   </a>
 </p>
 <br />
