@@ -32,7 +32,7 @@
 <br />
 Some of my <a href="https://github.com/NeoByteMX/MyCerts">Certs</a>
 <br />
-Want a <a href="https://github.com/NeoByteMX/walls">Wallpaper</a>
+Want a <a href="https://github.com/NeoByteMX/walls">Wallpaper</a>?
 <br />
 
 Last Edited on: 09/11/2023
