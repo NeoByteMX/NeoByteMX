@@ -14,7 +14,7 @@
   
 - 🌟 Open to job opportunities or collaboration in a project.
 
-- 📄 Know about my experiences:<a href="https://elfin-caption-c76.notion.site/My-Certifications-111518db1a1442a29426588cc519c97d" target="_blank">
+- 📄 Know about my experiences:<a href="https://elfin-caption-c76.notion.site/My-Certifications-111518db1a1442a29426588cc519c97d" target="_blank"> Resume </a>
 <br/>
 
 
@@ -24,7 +24,7 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,py,aws,bash,fastapi,git,github,linux,md,neovim,replit,vim,vscode,azure" />
   </a>
 </p>
-<br />8888
+<br />
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Connect with me 🤝 </h3>
   
