@@ -35,4 +35,6 @@
 - Want a <a href="https://github.com/NeoByteMX/walls">Wallpaper</a>?
 
 
-Last Edited on: 09/11/2023
+
+
+<small>Last Edited on: 09/11/2023</small>
