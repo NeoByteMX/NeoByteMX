@@ -21,12 +21,18 @@
 <h1>Skills and tools</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,py,aws,bash,fastapi,git,github,linux,md,neovim,replit,vim,vscode,azure" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,py,aws,bash,fastapi,git,github,linux,md,neovim,replit,vim,vscode,azure,notion,obisdian" />
   </a>
 </p>
 <br />
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Connect with me 🤝 </h3>
-  
+
+<a href="https://github.com/NeoByteMX/zmk-config">My Corne ZMK config</a>
+<br />
+Some of my <a href="https://github.com/NeoByteMX/MyCerts">Certs</a>
+<br />
+Want a <a href="https://github.com/NeoByteMX/walls">Wallpaper</a>
+<br />
 
 Last Edited on: 09/11/2023
