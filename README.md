@@ -2,13 +2,13 @@
 <h3 align="center">I'm Edwin, a passionate Cloud Computing Engineer from Mexico City, I'm interested in cybersecurity and development. I work on random projects in my free time, always learning a new skill and if possible, getting a new cert.</h3>
 <h1>About me:</h1>
 
-- 🔭 I’m currently working in <a href="https://us.alibabacloud.com/en" target="blank">Alibaba Cloud</a> being a member of the Alibaba Cloud International Support Team
+- 🔭 I’m currently working in <a href="https://www.mega.com/" target="blank">Mega</a> being a Cloud Engineer
 
-- 🌱 I’m learning JavaScript and pen-testing on <a href="https://tryhackme.com/p/Absalyon" target="_blank"> Try Hack Me </a>
+- 🌱 I’m learning JavaScript, Python, and cybersecurity.
 
 - 🤝 I’m available for freelancing.
 
-- 💬 Ask me about **Cloud computing**
+- 💬 Ask me about **Cloud computing** and cybersecurity, I can bring some help or consulting.
 
 - 📫 You can email me: **mmeo1107@gmail.com**
   
@@ -21,7 +21,7 @@
 <h1>Skills and tools</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,py,aws,bash,fastapi,git,github,linux,md,neovim,replit,vim,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,py,aws,bash,fastapi,git,github,linux,md,neovim,replit,vim,vscode,azure" />
   </a>
 </p>
 <br />
